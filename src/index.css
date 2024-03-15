@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Itim&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lalezar&family=Langar&display=swap');
+
+body {
+    background: #D1F0FF;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #5d5c9f84;
+    width: 100%;
+    padding: 10px;
+    top: 0;
+    margin-top: 0;
+    position: fixed;
+    z-index: 999;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 55px;
+    font-family: "Kanit", sans-serif;
+    color: #FFFF;
+    cursor: pointer;
+}
+
+.menu li:last-child {
+    margin-right: 60px;
+}
+
+.tituloPagina {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 200px;
+    padding: 0px 30px 0px 30px;
+    margin: 0 auto;
+    border-radius: 190px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-image: linear-gradient(to right, #258da4c2, #ffffffc7);
+}
+
+.tituloPagina img {
+    top: 10px;
+    bottom: 10px;
+    height: 200px;
+}
+
+.curiosidades {
+    display: flex;
+    padding-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.curiosidadesImagens {
+    display: flex;
+    margin-right: 15px;
+    gap: 20px;
+}
+
+.curiosidades img {
+    width: 270px;
+    height: 360px;
+    margin-left: 15px;
+}
+
+.curiosidadesText {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+}
+
+.curiosidadesText h1 {
+    font-family: "Langar", sans-serif;
+    color: #4173BE;
+    font-size: 45px;
+    text-align: center;
+}
+
+.curiosidadesText p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.curiosidadesText button {
+    align-items: center;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: #D9D9D9;
+    font-family: "Lalezar", sans-serif;
+    font-size: 25px;
+    color: #4173BE;
+    cursor: pointer;
+    padding-top:6px;
+}
+
+.personagens{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+}
+
+.personagens h1{
+    font-family: "Langar", sans-serif;
+    color: #4173BE;
+    font-size: 65px;
+    margin-top: -23px;;
+}
