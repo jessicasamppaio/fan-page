@@ -1,6 +1,6 @@
 # Fanpage de Jujutsu Kaisen
 
-![Logo de Jujutsu Kaisen](./src/imgs/jujutsu_kaisen_hd_png_by_newjer53_dekiqwv-pre.png)
+![Logo de Jujutsu Kaisen](./src/imgs/Jujutsu.Kaisen.full.3347585.png)
 
 Bem-vindo à minha Fanpage de Jujutsu Kaisen! Este é um projeto desenvolvido em React para os fãs da série de anime e mangá Jujutsu Kaisen. Esta é uma oportunidade para explorar e aprender React enquanto celebramos essa incrível obra.
 
