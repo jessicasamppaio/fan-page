@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Fanpage de Jujutsu Kaisen
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo de Jujutsu Kaisen](jujutsu_kaisen_logo.png)
 
-## Available Scripts
+Bem-vindo à minha Fanpage de Jujutsu Kaisen! Este é um projeto desenvolvido em React para os fãs da série de anime e mangá Jujutsu Kaisen. Esta é uma oportunidade para explorar e aprender React enquanto celebramos essa incrível obra.
 
-In the project directory, you can run:
+## Descrição 📖
 
-### `npm start`
+Este é o meu primeiro projeto em React, criado com o objetivo de me familiarizar com esta poderosa ferramenta de desenvolvimento web. Como fã de Jujutsu Kaisen, decidi construir uma fanpage dedicada à série, onde posso compartilhar informações, imagens, vídeos e muito mais relacionados ao universo de Jujutsu Kaisen.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Recursos 🛠️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Exploração do Universo de Jujutsu Kaisen:** Descubra informações sobre personagens, habilidades, história e muito mais.
+- **Temporadas:** Informações sobre as temporadas lançadas até o momento.
+- **Seção de Curiosidades:** Algumas curiosidades sobre a obra.
 
-### `npm test`
+## Como Contribuir 🤝
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Se você é um fã de Jujutsu Kaisen e deseja contribuir para este projeto, fique à vontade para enviar pull requests com melhorias, correções de bugs, novos recursos ou qualquer outra coisa que você ache útil para a fanpage.
 
-### `npm run build`
+## Instalação e Uso 🚀
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone este repositório: `git clone https://github.com/jessicasamppaio/fan-page.git`
+2. Navegue até o diretório do projeto: `cd fan-page`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor de desenvolvimento: `npm start`
+5. Abra seu navegador e acesse `http://localhost:3000` para ver a fanpage em ação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Licença 📝
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este projeto está licenciado sob a Licença [MIT](LICENSE.md).
