@@ -6,7 +6,7 @@ Bem-vindo à minha Fanpage de Jujutsu Kaisen! Este é um projeto desenvolvido em
 
 ## Descrição 📖
 
-Este é o meu primeiro projeto em React, criado com o objetivo de me familiarizar com esta poderosa ferramenta de desenvolvimento web. Como fã de Jujutsu Kaisen, decidi construir uma fanpage dedicada à série, onde posso compartilhar informações, imagens, vídeos e muito mais relacionados ao universo de Jujutsu Kaisen.
+Este é o meu primeiro projeto em React, criado com o objetivo de me familiarizar com esta ferramenta. Como fã de Jujutsu Kaisen, decidi construir uma fanpage dedicada à série, onde posso compartilhar informações, imagens, vídeos e muito mais relacionados ao universo de Jujutsu Kaisen.
 
 ## Recursos 🛠️
 
