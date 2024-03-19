@@ -25,8 +25,3 @@ Se você é um fã de Jujutsu Kaisen e deseja contribuir para este projeto, fiqu
 3. Instale as dependências: `npm install`
 4. Inicie o servidor de desenvolvimento: `npm start`
 5. Abra seu navegador e acesse `http://localhost:3000` para ver a fanpage em ação.
-
-
-## Licença 📝
-
-Este projeto está licenciado sob a Licença [MIT](LICENSE.md).
