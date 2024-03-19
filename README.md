@@ -27,6 +27,6 @@ Se você é um fã de Jujutsu Kaisen e deseja contribuir para este projeto, fiqu
 5. Abra seu navegador e acesse `http://localhost:3000` para ver a fanpage em ação.
 
 
-## Licença 
+## Licença 📝
 
 Este projeto está licenciado sob a Licença [MIT](LICENSE.md).
