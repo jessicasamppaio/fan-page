@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.941d5514.css",
+    "main.js": "/static/js/main.b4d66daa.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Jujutsu.Kaisen.full.3347585.png": "/static/media/Jujutsu.Kaisen.full.3347585.aa2a202608d7fd9504de.png",
+    "static/media/jujutsu_kaisen_hd_png_by_newjer53_dekiqwv-pre.png": "/static/media/jujutsu_kaisen_hd_png_by_newjer53_dekiqwv-pre.d9f3f156d0d94f117143.png",
+    "static/media/sukuna.jpg": "/static/media/sukuna.a1990bf256afb3d04454.jpg",
+    "static/media/jujutsu-kaisen-complete-guide-1st-season-578539_716x1024.webp": "/static/media/jujutsu-kaisen-complete-guide-1st-season-578539_716x1024.e8881fb8d23909fa85d6.webp",
+    "static/media/Fakta-Menarik-Jujutsu-Kaisen.webp": "/static/media/Fakta-Menarik-Jujutsu-Kaisen.2fd9e7ff1a80d2abf427.webp",
+    "static/media/jujutsu-kaisen-pubblicato-nuovo-trailer-debutto-serie-v3-471902.jpg": "/static/media/jujutsu-kaisen-pubblicato-nuovo-trailer-debutto-serie-v3-471902.a63bbd224ff5984ae19b.jpg",
+    "static/media/yuuji-itadori_cke.webp": "/static/media/yuuji-itadori_cke.72bc3ca430d00eae57e6.webp",
+    "static/media/nobara-kugisaki_cke.webp": "/static/media/nobara-kugisaki_cke.7efc53d8d3b9fd23f5ab.webp",
+    "static/media/megumi-fushiguro_cke.webp": "/static/media/megumi-fushiguro_cke.b8ebdebed796aeb7afa1.webp",
+    "index.html": "/index.html",
+    "main.941d5514.css.map": "/static/css/main.941d5514.css.map",
+    "main.b4d66daa.js.map": "/static/js/main.b4d66daa.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941d5514.css",
+    "static/js/main.b4d66daa.js"
+  ]
+}
