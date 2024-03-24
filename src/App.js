@@ -193,12 +193,6 @@ function App() {
         </div>
         
       </section>
-
-      
-
-
-
-
       <footer>
         <p>Jéssica Sampaio</p>
       </footer>
